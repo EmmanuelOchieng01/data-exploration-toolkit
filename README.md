@@ -16,6 +16,31 @@ A reusable data analysis toolkit with an interactive web interface. Upload any C
 
 ---
 
+# System Screenshots 
+
+## Home Screen 
+<img width="940" height="394" alt="Screenshot From 2026-03-24 13-19-47" src="https://github.com/user-attachments/assets/ec86a73b-05ef-4075-bafd-c6fa39cf1ba3" />
+
+## Explorations 
+
+<img width="982" height="841" alt="Screenshot From 2026-03-24 13-20-24" src="https://github.com/user-attachments/assets/f8b4e657-9880-4195-8037-5f2f5c6cdab6" />
+
+<img width="977" height="776" alt="Screenshot From 2026-03-24 13-20-44" src="https://github.com/user-attachments/assets/82243766-a783-4a5b-8b07-e7838256b912" />
+
+<img width="977" height="776" alt="Screenshot From 2026-03-24 13-21-03" src="https://github.com/user-attachments/assets/91c1d3ae-0c1a-48a3-a951-ca898a11a757" />
+
+
+<img width="977" height="776" alt="Screenshot From 2026-03-24 13-21-12" src="https://github.com/user-attachments/assets/f54ed212-b899-41a3-a778-6973319963a7" />
+
+
+<img width="977" height="776" alt="Screenshot From 2026-03-24 13-21-20" src="https://github.com/user-attachments/assets/f3c319ab-75f4-4361-b02c-879fbe40190c" />
+
+
+<img width="977" height="776" alt="Screenshot From 2026-03-24 13-21-37" src="https://github.com/user-attachments/assets/7153fe4a-7a8f-4445-9fe4-acc59aef62a3" />
+
+
+
+
 ## Launch Procedure
 
 Requirements: Python 3.8+
