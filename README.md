@@ -3,6 +3,8 @@
 A reusable data analysis toolkit with an interactive web interface. Upload any CSV or Excel file and instantly clean, explore, and visualise it — no code required.
 
 ---
+### Use the exploration toolkit
+https://data-exploration-toolkit-h6sthkyfmbcweyzgskuoes.streamlit.app/
 
 ## What it does
 
